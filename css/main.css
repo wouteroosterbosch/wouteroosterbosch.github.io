@@ -1,13 +1,14 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background-color: #111517;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
+    background-color: #111517;
+    color:#17B890;
 }
 nav ul li, footer ul li {
     display: inline;
@@ -23,7 +24,6 @@ a:hover {
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    color:#17B890;
 }
 p {
     font-size: 1.5em;
